@@ -1,0 +1,46 @@
+{
+  "name": "sky-gxt-tas-v8",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve --mode dev",
+    "sit": "vue-cli-service build --mode sit",
+    "prod": "vue-cli-service build --mode prod",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "big.js": "^6.1.1",
+    "core-js": "^3.15.2",
+    "echart": "^0.1.3",
+    "echarts": "^5.2.2",
+    "element-ui": "^2.15.5",
+    "jquery": "^3.6.0",
+    "js-cookie": "^2.2.1",
+    "lodash": "^4.17.21",
+    "mockjs": "^1.1.0",
+    "moment": "^2.29.1",
+    "print-js": "^1.6.0",
+    "uuid": "^8.3.2",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.2",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.13",
+    "@vue/cli-plugin-eslint": "~4.5.13",
+    "@vue/cli-plugin-router": "~4.5.13",
+    "@vue/cli-plugin-vuex": "~4.5.13",
+    "@vue/cli-service": "~4.5.13",
+    "axios": "^0.21.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.30.0",
+    "eslint-plugin-vue": "^7.13.0",
+    "less": "^3.0.4",
+    "less-loader": "^5.0.0",
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.0.3",
+    "vue-cli-plugin-axios": "0.0.4",
+    "vue-cli-plugin-element": "^1.0.1",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
